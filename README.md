@@ -32,7 +32,7 @@ Ejercicio 1:
 desde el paquete math para usarlo como una variable a parte
 + Hecho esto creamos 2 funciones que contengan dentro las formulas de volumen y area del cono y esfera respectivamente para al final de la
 funcion sumar sus valorer
-+ Esta suma de areas/volumenes le nombraremos y la pondremos como lo que nos devolvera la funcion al invocarla
++ Esta suma de areas/volumenes seran lo que nos devolvera la funcion al invocarla
 + Hecho esto simplemente añadimos a nuestro codigo variables para que se puedan asignar valores por teclado, posteriormente usamos las
 funciones con estas variables ingresadas y creamos un print que nos de el resultado
 
