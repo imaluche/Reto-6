@@ -164,7 +164,7 @@ if __name__=="__main__":
 ## Explicacion
 + Definimos una funcion la cual tome los contagios y los dias que han pasado desde ese valor de contagios
 + En esta funcion potenciamos 2 al numero de dias para despues multiplicarlo por el numero de contagios
-+ pues por cada dia que pasa se duplica el numero de contagios
+pues por cada dia que pasa se duplica el numero de contagios
 + Ya definidas las funciones introducimos valores que se puedan añadir por teclado y aplicamos las funciones
 + con estos valores
 + Escribimos los resultados en un print con valores entendibles
