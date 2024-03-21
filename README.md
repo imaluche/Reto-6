@@ -169,7 +169,7 @@ pues por cada dia que pasa se duplica el numero de contagios
 con estos valores
 + Escribimos los resultados en un print con valores entendibles
 
-Ejercicio 7:
+Ejercicio 7 y 8:
 Este ejercico se divide en 2 partes, una para las funciones y otra para el codigo principal
 -----------
 ## Funciones:
@@ -261,3 +261,21 @@ if __name__=="__main__":
 + Aplicamos cada funcion con las 5 variables definidas con anterioridad
 + Usamos diferentes prints para explicar los resultados de manera entendible (en el caso de los conjuntos
 solo necesitan ser mostrados)
+
+Ejercicio 9 y 10: Pip
+-----------
++ El pip es una herramienta incluida de base con python, esta cumple la funcion de administrar los 
+paquetes, de asi su nombre ("Package installer for python")
++ Para hacer uso de este solamente es necesario usar una serie de comandos en la terminal de windows
+o de la aplicacion que permita el uso de codigo (en nuestro caso vsc) los cuales inician con pip
++ Entre sus funciones ademas de permitir instalar paquetes desde un repositorio virtual permite
+administrar las versiones de estos paquetes, la version del propio pip, crear entornos virtuales, etc
+Algunos modulos populares son:
++ samplewatts
++ grailkit
++ suitesparse-graphblas
++ django-moderation
+Todos estos paquetes se pueden instalar por medio del comando:
+pip (nombre del paquete)== (version del paquete)
+si no se desea instalar una version especifica tan solo se escribe el comando hasta antes del primer igual
+(Esto solo es posible siempre que el paquete este en el repositorio virtual pypi.org)
