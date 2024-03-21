@@ -96,7 +96,7 @@ if __name__=="__main__":
 + Definimos una funcion en la cual representemos el valor de peso de cada animal multiplicado por el numero que se tiene
 + En esta misma funcion se suman estos valores de pesos para obtener el peso total
 + Hecha la funcion incluimos en el codigo variables que se puedan asginar por teclado, una para cada ave
-+ Aplicamos estas variables de la funcion para aplicarlas en un print que nos de el numero con unidades comprensibles
++ Aplicamos estas variables en la funcion para usarlas en un print que nos de el numero en unidades comprensibles
 
 Ejercicio 4:
 -----------
