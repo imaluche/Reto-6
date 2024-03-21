@@ -171,8 +171,8 @@ con estos valores
 
 Ejercicio 7:
 Este ejercico se divide en 2 partes, una para las funciones y otra para el codigo principal
-Funciones:
 -----------
+## Funciones:
 ```python
      a:float
 b:float
