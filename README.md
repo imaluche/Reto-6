@@ -71,7 +71,7 @@ por la funcion
 + En la segunda funcion definimos el perimetro del circulo y el rectangulo para despues formar el perimetro total siguiendo
 los mismos lineamientos que en el area, hecho esto el perimetro total sera lo que nos devolvera la funcion
 + Repetimos el proceso posterior a la funciones hecho en el ejercicio 1, creando valores ingresados por teclado e invocando a
-las funciones para usar estos valores para al final usar un print que nos de el resultado en valores entendible
+las funciones para usar estos valores para al final usar un print que nos de el resultado en valores entendibles
 
 Ejercicio 3:
 -----------
