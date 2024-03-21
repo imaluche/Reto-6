@@ -124,6 +124,7 @@ if __name__=="__main__":
 que se nos fue entregado para las compras
 + aplicamos la funcion con las variables introducidas
 + Escribimos un print que nos de las vueltas en pesos
+  
 Ejercicio 5:
 -----------
 ```python
