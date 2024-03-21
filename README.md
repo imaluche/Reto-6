@@ -211,17 +211,24 @@ def raiz(a,b,c,d,e):
 ```
 ## Explicacion
 Se definen las 7 funciones a partir de los 5 valores que deben ser numeros reales, para esto
-se usan 5 valores reales, usando en cada caso diferentes aspectos de estos
+se usan 5 valores reales, usando en cada caso diferentes aspectos de estos:
+
 +media: Se suman y se dividen entre 5 (siempre seran 5 reales), se devuelve el resultado de esta
 operacion
+
 +mediana: Se ordenan y se elige el valor del centro dividiendo su longitud entre 2, se devuelve
 el valor indicado por medio del proceso hecho con anterioridad(al ser 5 no hay que complicarse mas)
+
 +Promedio multiplicativo: Se multiplican todos los numeros y se multiplican por 1/5 a falta de raices
+
 + numeros ascendentes: Se usa sorted para organizar la lista de menor a mayor
+
 + Numeros descendentes:Tambien se usa sorted pero hacemos la variable reverse verdadera para que
 invierta el orden
+
 + Potencia del mayor al menor: Denominamos el mayor numero usando la max en el conjunto y hacemos
 lo mismo con la min para el menor numero, hecho esto solamente operamos
+
 + Raiz cubica del menor numero: volvemos a obtener el valor minimo con el mismo proceso realizado en
 la anterior funcion, potenciandolo por 1/3
 
